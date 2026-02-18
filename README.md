@@ -1,5 +1,5 @@
 # Learning Playwright 🚀
-Hi
+
 This project contains End-to-End (E2E) test automation scripts built using Playwright with JavaScript.
 
 ## 📌 Tech Stack
